@@ -1,4 +1,6 @@
 # Team Karate Attorney crawl policy
+# Public site: https://teamkarateattorney.com/
+# AI-readable site guide: https://teamkarateattorney.com/llms.txt
 User-agent: *
 Allow: /
 

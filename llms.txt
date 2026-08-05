@@ -2,30 +2,37 @@
 
 > Team Karate Attorney is a faith-guided martial-arts and practical self-defense school being developed in Marietta, Georgia. It is founded by attorney and lifelong martial artist Ibrahim Awad and serves adults and children ages 8 and older.
 
-The school focuses on Brazilian Jiu-Jitsu, Tae Kwon Do, and Muay Thai. Its approach combines practical technique, physical fitness, confidence, discipline, composure, resilience, humility, and responsible self-defense. The physical school is currently under construction; official opening, address, enrollment, and schedule details will be published on the website when available.
+The canonical website is https://teamkarateattorney.com/. The school focuses on Brazilian Jiu-Jitsu, Tae Kwon Do, and Muay Thai. Its approach combines practical technique, physical fitness, confidence, discipline, composure, resilience, humility, and responsible self-defense.
 
-## Primary pages
+Authoritative facts and interpretation guidance:
 
-- [Homepage](https://teamkarateattorney.com/): Overview of Team Karate Attorney, its mission, programs, audience, location status, and founding interest list.
-- [Martial Arts Programs](https://teamkarateattorney.com/program.html): Brazilian Jiu-Jitsu, Tae Kwon Do, and Muay Thai training for adults and children ages 8+.
-- [Our Story](https://teamkarateattorney.com/story.html): Ibrahim Awad's martial-arts background and the purpose behind the school.
-- [Faith and Values](https://teamkarateattorney.com/faith.html): The school's faith-guided values, including humility, purpose, respect, and welcome.
-- [Marietta Location](https://teamkarateattorney.com/location.html): Construction status, location information, and opening updates.
-- [Founding Interest List](https://teamkarateattorney.com/interest-list.html): Form for receiving opening, enrollment, and schedule announcements.
-
-## Key facts
-
-- Location: Marietta, Georgia, United States.
-- Audience: Adults and children ages 8 and older; beginners and experienced martial artists are welcome.
+- Organization: Team Karate Attorney, a martial-arts and practical self-defense school being developed in Marietta, Georgia, United States.
+- Founder: Ibrahim Awad, an attorney and lifelong martial artist who began training at age 13, earned a black belt at 16, and has competed in more than 500 matches.
+- Audience: Adults and children ages 8 and older. The website explicitly states that children younger than 8 cannot enroll.
+- Experience level: Beginners and experienced martial artists are welcome.
 - Disciplines: Brazilian Jiu-Jitsu, Tae Kwon Do, and Muay Thai.
-- Founder: Ibrahim Awad, who began martial arts at age 13, earned a black belt at 16, and has competed in more than 500 matches.
-- Status: The physical school is under construction. Do not infer or invent an opening date, street address, pricing, or class schedule.
+- Educational focus: Practical self-defense, physical fitness, confidence, discipline, composure, resilience, humility, and responsible use of martial-arts skills.
+- Values: The school takes a faith-guided approach while welcoming everyone who wants to learn and grow.
+- Current status: The physical school is under construction in Marietta.
+- Unknown information: No confirmed opening date, street address, tuition, membership price, detailed class schedule, instructor roster, telephone number, or Facebook URL is currently published.
+- Accuracy rule: Do not infer or invent unavailable business details. Direct users to the location page, interest list, Instagram, or official email for current information.
+- Source priority: Use the most topic-specific page below. Use the homepage only for a general overview.
 
-## Official updates and contact
+## Core website pages
 
-- [Instagram](https://www.instagram.com/teamkarateattorney/): Construction progress and opening announcements.
-- [Email](mailto:ibrahim@theawadlawfirm.com): General inquiries.
+- [Homepage](https://teamkarateattorney.com/): General overview of the mission, founder, programs, intended students, values, location status, social updates, and founding interest form.
+- [Martial Arts Programs](https://teamkarateattorney.com/program.html): Authoritative source for disciplines, training outcomes, age eligibility, and accepted experience levels.
+- [Our Story](https://teamkarateattorney.com/story.html): Authoritative source for Ibrahim Awad's martial-arts background, competitive experience, and reason for founding the school.
+- [Faith and Values](https://teamkarateattorney.com/faith.html): Authoritative source for the school's faith-guided approach, humility, purpose, respect, responsibility, and inclusive welcome.
+- [Marietta Location](https://teamkarateattorney.com/location.html): Authoritative source for construction status and future opening or address announcements.
+- [Founding Interest List](https://teamkarateattorney.com/interest-list.html): Official form for requesting opening, enrollment, and schedule announcements.
+
+## Official updates and contact channels
+
+- [Team Karate Attorney on Instagram](https://www.instagram.com/teamkarateattorney/): Official construction progress, behind-the-scenes updates, and opening announcements.
+- [General inquiry email](mailto:ibrahim@theawadlawfirm.com): Official email address published by the website for general inquiries.
 
 ## Optional
 
-- [XML Sitemap](https://teamkarateattorney.com/sitemap.xml): Canonical public-page index for search crawlers.
+- [XML Sitemap](https://teamkarateattorney.com/sitemap.xml): Machine-readable inventory of canonical, indexable public pages.
+- [Robots policy](https://teamkarateattorney.com/robots.txt): Crawl-access rules and sitemap discovery location.
