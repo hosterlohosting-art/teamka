@@ -1,3 +1,5 @@
+# Team Karate Attorney crawl policy
 User-agent: *
 Allow: /
+
 Sitemap: https://teamkarateattorney.com/sitemap.xml
